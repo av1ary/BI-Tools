@@ -13,3 +13,4 @@ open sources, but it had some issues. Thus, it was corrected during data prepara
 new tables and columns were created to organize vizualizations preperly. 
 
 <img width="537" height="277" alt="image" src="https://github.com/user-attachments/assets/1333f32d-4c83-496f-90a1-5d20b5933941" />
+<img width="538" height="278" alt="image" src="https://github.com/user-attachments/assets/834d84a6-0690-49f1-a8e3-07f9f657df63" />
